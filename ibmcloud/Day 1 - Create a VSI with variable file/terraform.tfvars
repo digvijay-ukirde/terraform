@@ -1,0 +1,10 @@
+image_id = "r010-fbf5348c-2afb-4319-beb5-43dc84e214f0"
+tags = ["test"]
+vsi_profile = "cx2-2x4"
+zone_name = "eu-de-1"
+ssh_keys = ["r010-5a0babfd-fe0e-45b3-b4af-b419e86a4ba5"]
+region = "eu-de"
+ibmcloud_api_key = "YOUR_IBMCLOUD_API_KEY"
+subnet_id = "02b7-33bf821d-2781-40cc-86ba-734a9c73a379"
+vpc_id = "r010-f8e883e2-9eb9-4b15-8272-b4ef2118a23e"
+vsi_name = "instance-with-schematics"
